@@ -1,2 +1,7 @@
 aaaa
 bbbb
+
+git报错 refusing to merge unrelated histories
+
+解决方案
+  在pull 命令后加上--allow-unrelated-histories
